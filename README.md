@@ -1,5 +1,13 @@
-i primarily work with languages such as kotlin, java, python, and others
+languages i work with:
+kotlin, java, python, javascript, and many more
 
-i am learning languages like rust, c, julia, and many more i want to learn also
+languages i am learrning:
+rust, c, julia, and many more
+
+languages i am kinda learning or not, or just have worked with in the past???:
+lua, swift
+
+languages i want to learn:
+C++, SQL, PHP, ASM, Arduino
 
 i am working on scotmod right now
